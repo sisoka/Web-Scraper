@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tIeqkK5xiVkbBWKD6HFDZOSsKmWGtbSAqaRlHQTzBngf5g2cB3oZZVDfbgBsIYWWvdbnXEEc1H/eUTzVdODeZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sisko\\source\\repos\\WebScraper\\WebScraper\\WebScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sisko\\.nuget\\packages\\htmlagilitypack\\1.11.37\\htmlagilitypack.1.11.37.nupkg.sha512",
+    "C:\\Users\\sisko\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
